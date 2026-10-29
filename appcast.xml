@@ -6,6 +6,15 @@
         <description>Wizper updates</description>
         <language>en</language>
         <item>
+            <title>Version 0.3.0</title>
+            <pubDate>Thu, 29 Oct 2026 16:07:36 GMT</pubDate>
+            <sparkle:version>1046</sparkle:version>
+            <sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<p>Polish: clearer Style tones, a working-key warning that says what to do, shorter wording everywhere, a new welcome screen, and 'Open Wizper' in the menu.</p>]]></description>
+            <enclosure url="https://github.com/hrmomeni/wizper-releases/releases/download/v0.3.0/Wizper-0.3.0.dmg" sparkle:edSignature="RSoadrRBtK/oh1xu+QCNMf71avaRn6SPUr+QksS/A9Os8ECly03ZfIaPwodrQixTAUdw+aRQzF0kF1BxjlxEBQ==" length="27470796" type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Version 0.2.0</title>
             <pubDate>Thu, 29 Oct 2026 13:46:55 GMT</pubDate>
             <sparkle:version>1038</sparkle:version>
