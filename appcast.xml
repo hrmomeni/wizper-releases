@@ -6,6 +6,15 @@
         <description>Wizper updates</description>
         <language>en</language>
         <item>
+            <title>Version 0.5.0</title>
+            <pubDate>Fri, 30 Oct 2026 22:38:52 GMT</pubDate>
+            <sparkle:version>1115</sparkle:version>
+            <sparkle:shortVersionString>0.5.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<p>Better Farsi: a speech model trained on Persian (downloads once when Farsi is on). Tidier Model page: models and languages each on one summary row. Fixes.</p>]]></description>
+            <enclosure url="https://github.com/hrmomeni/wizper-releases/releases/download/v0.5.0/Wizper-0.5.0.dmg" sparkle:edSignature="uo3OoV09yIKQ6wA6K8fp4eF/tPWdHGjRDZyUmSu4TCt23au/thjV302KgVBj2P8GqGnlWgE1p5U2h6EzNScnBQ==" length="28274949" type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Version 0.4.0</title>
             <pubDate>Fri, 30 Oct 2026 08:51:32 GMT</pubDate>
             <sparkle:version>1091</sparkle:version>
