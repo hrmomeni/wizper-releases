@@ -6,6 +6,15 @@
         <description>Wizper updates</description>
         <language>en</language>
         <item>
+            <title>Version 0.4.0</title>
+            <pubDate>Fri, 30 Oct 2026 08:51:32 GMT</pubDate>
+            <sparkle:version>1091</sparkle:version>
+            <sparkle:shortVersionString>0.4.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<p>New languages: Korean, Farsi and German with automatic language detection (General &gt; Languages). New English model choice: Fast (Parakeet) or Whisper turbo. Model updates. Setup now asks which languages you speak.</p>]]></description>
+            <enclosure url="https://github.com/hrmomeni/wizper-releases/releases/download/v0.4.0/Wizper-0.4.0.dmg" sparkle:edSignature="YS8R9SsoKBfBaziDuZfnovdwf41dYt9uHyTRGDc3ylk7UphPxtQn2QVAMPhx0YWV3QngA43GGuPv+HxWbjpdCQ==" length="27929698" type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Version 0.3.0</title>
             <pubDate>Thu, 29 Oct 2026 16:07:36 GMT</pubDate>
             <sparkle:version>1046</sparkle:version>
