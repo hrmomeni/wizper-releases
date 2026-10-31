@@ -6,6 +6,15 @@
         <description>Wizper updates</description>
         <language>en</language>
         <item>
+            <title>Version 0.6.0</title>
+            <pubDate>Sat, 31 Oct 2026 09:59:31 GMT</pubDate>
+            <sparkle:version>1151</sparkle:version>
+            <sparkle:shortVersionString>0.6.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<p>Mute other audio while dictating (General, off by default) and microphone warnings. English spelling: US or UK (Style). Undo right after Wizper types: click the pill. Languages moved to the Model page. Smarter text: "an" before numbers like 18, final periods kept after a correction, more questions get a question mark. Smart-mode model fix downloads only 3 MB. Speech engines updated. Model credits in About. Many fixes.</p>]]></description>
+            <enclosure url="https://github.com/hrmomeni/wizper-releases/releases/download/v0.6.0/Wizper-0.6.0.dmg" sparkle:edSignature="J2PxJRhTQG4UYFnBURAZCg1sVCLP497eabpcv2DU0UiCk4NJszJ/f76lYRKzW174mFdEsnEgL8cnig2MNguIAA==" length="28805069" type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Version 0.5.0</title>
             <pubDate>Fri, 30 Oct 2026 22:38:52 GMT</pubDate>
             <sparkle:version>1115</sparkle:version>
