@@ -6,6 +6,15 @@
         <description>Wizper updates</description>
         <language>en</language>
         <item>
+            <title>Version 0.6.3</title>
+            <pubDate>Sat, 31 Oct 2026 22:11:12 GMT</pubDate>
+            <sparkle:version>1178</sparkle:version>
+            <sparkle:shortVersionString>0.6.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<p>Compare models now runs in Low Power Mode, picks up waiting dictations when power allows, and says when it is paused.</p>]]></description>
+            <enclosure url="https://github.com/hrmomeni/wizper-releases/releases/download/v0.6.3/Wizper-0.6.3.dmg" sparkle:edSignature="9tRWWbtjYCZQc/VX6tzkho/VyB6U0EwcCqwJF79K0R032JuqOOB+3l4ZQz4iyPIdBOVaE2iYwnW37WoLLj9rDQ==" length="29000807" type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Version 0.6.2</title>
             <pubDate>Sat, 31 Oct 2026 21:39:48 GMT</pubDate>
             <sparkle:version>1172</sparkle:version>
