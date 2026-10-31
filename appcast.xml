@@ -6,6 +6,15 @@
         <description>Wizper updates</description>
         <language>en</language>
         <item>
+            <title>Version 0.6.1</title>
+            <pubDate>Sat, 31 Oct 2026 16:32:52 GMT</pubDate>
+            <sparkle:version>1159</sparkle:version>
+            <sparkle:shortVersionString>0.6.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<p>Wizper is now invite-only: a new copy shows Ask for access, and the person who shared Wizper approves it from their own Wizper. Your settings and history are kept. Small fixes.</p>]]></description>
+            <enclosure url="https://github.com/hrmomeni/wizper-releases/releases/download/v0.6.1/Wizper-0.6.1.dmg" sparkle:edSignature="tSQjmvSEuDtX7eXQ8V69tgvGrEhwMhz02uJF1DiGn9Ph+WhdaJlkmrRx9C4x4MkRfq21y4Rw89S6+MUlJV1ZAA==" length="28860549" type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Version 0.6.0</title>
             <pubDate>Sat, 31 Oct 2026 09:59:31 GMT</pubDate>
             <sparkle:version>1151</sparkle:version>
