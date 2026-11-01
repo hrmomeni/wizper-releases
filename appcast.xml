@@ -6,6 +6,15 @@
         <description>Wizper updates</description>
         <language>en</language>
         <item>
+            <title>Version 0.7.0</title>
+            <pubDate>Sun, 01 Nov 2026 18:35:55 GMT</pubDate>
+            <sparkle:version>1216</sparkle:version>
+            <sparkle:shortVersionString>0.7.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<p>Meeting notes: Start meeting from the menu or Home, or from the card that appears when a call starts; a You/Them transcript after Stop. Smart now fixes simple grammar slips. Paragraphs and greeting/sign-off lines in email and document apps. Five start/stop sounds with a volume control. One Smart model and a simpler Model page. Compare: Both right. Background review and Compare work in Low Power Mode.</p>]]></description>
+            <enclosure url="https://github.com/hrmomeni/wizper-releases/releases/download/v0.7.0/Wizper-0.7.0.dmg" sparkle:edSignature="G8tt+vyCnxYbc905GQA2GN+vKE6fn18/4i+gZw3CVbdPG6kh5apUxO1o0Iqzg2Ydefn/BCgZULPpaEg0aZsTDA==" length="30045799" type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Version 0.6.3</title>
             <pubDate>Sat, 31 Oct 2026 22:11:12 GMT</pubDate>
             <sparkle:version>1178</sparkle:version>
