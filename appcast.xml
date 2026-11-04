@@ -6,6 +6,15 @@
         <description>Wizper updates</description>
         <language>en</language>
         <item>
+            <title>Version 0.8.0</title>
+            <pubDate>Wed, 04 Nov 2026 19:26:04 GMT</pubDate>
+            <sparkle:version>1302</sparkle:version>
+            <sparkle:shortVersionString>0.8.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<p>Smarter grammar fixes in Smart English (an on-device grammar model; never changes your meaning or tense). Practice removed. Meeting notes (off until you turn it on in settings): live transcript, side-by-side summary, Ask, folders, speaker names, auto-stop when the call ends. Many small fixes.</p>]]></description>
+            <enclosure url="https://github.com/hrmomeni/wizper-releases/releases/download/v0.8.0/Wizper-0.8.0.dmg" sparkle:edSignature="g0tSQgcpXqDTue2l5Gsd+N8EqjU8LNP9AdG275g8VhDuDwpP/0otBczQwOTyoN8ic5+f/EmHm78T11YyCFsDDg==" length="31326964" type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Version 0.7.0</title>
             <pubDate>Sun, 01 Nov 2026 18:35:55 GMT</pubDate>
             <sparkle:version>1216</sparkle:version>
