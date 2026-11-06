@@ -6,6 +6,15 @@
         <description>Wizper updates</description>
         <language>en</language>
         <item>
+            <title>Version 0.9.0</title>
+            <pubDate>Fri, 06 Nov 2026 14:22:21 GMT</pubDate>
+            <sparkle:version>1353</sparkle:version>
+            <sparkle:shortVersionString>0.9.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<p>Simpler Model page with an Auto-detect language switch. One Whisper model instead of two. A simpler Style page (long dashes always avoided). Recordings stop at 10 minutes, with a warning at 9:30. The review asks fewer needless questions. Fixes and cleanups.</p>]]></description>
+            <enclosure url="https://github.com/hrmomeni/wizper-releases/releases/download/v0.9.0/Wizper-0.9.0.dmg" sparkle:edSignature="BJCTApOcfmZ2dCts3tpkoRdcFoWfG6mg2UZl9/ltgFh4tG6kB60yZwWJttOdRro8cOdYvyrq1sx3RjbKPIvCAQ==" length="31253129" type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Version 0.8.0</title>
             <pubDate>Wed, 04 Nov 2026 19:26:04 GMT</pubDate>
             <sparkle:version>1302</sparkle:version>
