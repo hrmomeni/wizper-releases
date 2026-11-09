@@ -6,6 +6,15 @@
         <description>Wizper updates</description>
         <language>en</language>
         <item>
+            <title>Version 0.11.0</title>
+            <pubDate>Mon, 09 Nov 2026 17:40:47 GMT</pubDate>
+            <sparkle:version>1457</sparkle:version>
+            <sparkle:shortVersionString>0.11.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<p>Korean dictation keeps the English you say: whole English sentences and English words inside Korean sentences come out in English letters, in the right place, and names keep their capital. Persian with English phrases keeps the English too. Long dictations no longer lose sentences (Retry and Transcribe in History, and long English or Korean dictations on Whisper), and the wait after a long dictation is shorter. Graphite is the default theme (Aurora Glass removed) with a softer logo glow. No Words page: Dictionary is under Model, People under Privacy; review questions and their 464 MB model removed; no scroll bars. Text is typed, not pasted, into remote desktops and VMs, one line in spreadsheet cells, and you see 'Part of it was typed' when typing stops early. Sync never skips a change made while a sync starts, and Dictionary sync is faster for big imports. Small stability fixes.</p>]]></description>
+            <enclosure url="https://github.com/hrmomeni/wizper-releases/releases/download/v0.11.0/Wizper-0.11.0.dmg" sparkle:edSignature="OXCR/94+wOoPKilUawEdqEKNPNyZmWLsucC9wSLTNgazUc2+z6o62kW9BKtrztihpJr0stLOMO/Jq+6ksoeOBg==" length="31314906" type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Version 0.10.0</title>
             <pubDate>Sat, 07 Nov 2026 12:13:37 GMT</pubDate>
             <sparkle:version>1393</sparkle:version>
