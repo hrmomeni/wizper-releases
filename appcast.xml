@@ -6,6 +6,16 @@
         <description>Wizper updates</description>
         <language>en</language>
         <item>
+            <title>Version 0.11.3</title>
+            <pubDate>Tue, 10 Nov 2026 21:30:22 GMT</pubDate>
+            <sparkle:version>1509</sparkle:version>
+            <sparkle:shortVersionString>0.11.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<p>- Names from your Dictionary are recognised again: the name helper had stopped working on macOS 27.0.1, and a wrong guess next to a name no longer cancels the right fix.
+- Newer speech engine (FluidAudio 0.18.3) with repairs for long dictations, plus updated database and update components.</p>]]></description>
+            <enclosure url="https://github.com/hrmomeni/wizper-releases/releases/download/v0.11.3/Wizper-0.11.3.dmg" sparkle:edSignature="2INesDo4hH5+GzrrkqPDgdsOLcxj2pEXDAgV6vDFH3++vCv4W22q4Qz3kvdkRTHLI3qzhNsHeHM5wqmtl9KaBA==" length="32021011" type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Version 0.11.2</title>
             <pubDate>Tue, 10 Nov 2026 19:10:20 GMT</pubDate>
             <sparkle:version>1499</sparkle:version>
