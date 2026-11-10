@@ -6,6 +6,18 @@
         <description>Wizper updates</description>
         <language>en</language>
         <item>
+            <title>Version 0.11.1</title>
+            <pubDate>Tue, 10 Nov 2026 11:34:21 GMT</pubDate>
+            <sparkle:version>1487</sparkle:version>
+            <sparkle:shortVersionString>0.11.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<p>- A dictation that could not be pasted is now on your clipboard: the box says "Copied — press ⌘V to paste".
+- Sending a message right after the paste no longer shows "Not inserted".
+- Typing into remote desktops is faster; less memory used for mixed Korean/Persian + English.
+- Fewer timing hiccups.</p>]]></description>
+            <enclosure url="https://github.com/hrmomeni/wizper-releases/releases/download/v0.11.1/Wizper-0.11.1.dmg" sparkle:edSignature="hl7M9Twb1SrwR4e97PwQoslsebUOJ7KIwZ+uvbid6hK/Ru4l9XLsPJSL2l79ASm9iOgB0CwSmk/2He5t5RzeCw==" length="31317762" type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Version 0.11.0</title>
             <pubDate>Mon, 09 Nov 2026 17:40:47 GMT</pubDate>
             <sparkle:version>1457</sparkle:version>
