@@ -6,6 +6,16 @@
         <description>Wizper updates</description>
         <language>en</language>
         <item>
+            <title>Version 0.11.2</title>
+            <pubDate>Tue, 10 Nov 2026 19:10:20 GMT</pubDate>
+            <sparkle:version>1499</sparkle:version>
+            <sparkle:shortVersionString>0.11.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<p>- When you fix a misheard word (for example "UX fill" → "UX feel"), Wizper offers to remember that exact phrase and writes it right next time; the word on its own is never changed.
+- Dictionary phrases keep their capital at the start of a sentence.</p>]]></description>
+            <enclosure url="https://github.com/hrmomeni/wizper-releases/releases/download/v0.11.2/Wizper-0.11.2.dmg" sparkle:edSignature="g3A004uA+6kVkQs3OYYsWIz4+bn9UJh1hBju7OtyRYNLP+CHdQ57JMuXVqIhZlIDGWuiZr+gxVrHtVOg80oGDQ==" length="31333537" type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Version 0.11.1</title>
             <pubDate>Tue, 10 Nov 2026 11:34:21 GMT</pubDate>
             <sparkle:version>1487</sparkle:version>
