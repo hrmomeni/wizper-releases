@@ -6,6 +6,15 @@
         <description>Wizper updates</description>
         <language>en</language>
         <item>
+            <title>Version 0.12.2</title>
+            <pubDate>Fri, 13 Nov 2026 23:10:30 GMT</pubDate>
+            <sparkle:version>1633</sparkle:version>
+            <sparkle:shortVersionString>0.12.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<p>Simpler settings: one Meeting notes switch (Home and Meetings page); Use Wizper for, About you and Compare models removed; English dictation always uses Parakeet; meetings show your iCloud name for You.</p>]]></description>
+            <enclosure url="https://github.com/hrmomeni/wizper-releases/releases/download/v0.12.2/Wizper-0.12.2.dmg" sparkle:edSignature="087aGsbBLytqmrZPs8ad9qJe4heIbzxvUJR4PCA4Q1ajyKFa1M/9dWB+w1PysNwuzfWo95TN+vDGxCL5dOS9CA==" length="32864256" type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Version 0.12.1</title>
             <pubDate>Fri, 13 Nov 2026 20:31:34 GMT</pubDate>
             <sparkle:version>1627</sparkle:version>
