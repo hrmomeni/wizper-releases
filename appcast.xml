@@ -6,6 +6,15 @@
         <description>Wizper updates</description>
         <language>en</language>
         <item>
+            <title>Version 0.12.1</title>
+            <pubDate>Fri, 13 Nov 2026 20:31:34 GMT</pubDate>
+            <sparkle:version>1627</sparkle:version>
+            <sparkle:shortVersionString>0.12.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<p>Meetings: the call's echo is no longer written as your words; better Thai-accented English; transcript ready about 1 s after Stop; no You lines while muted. Dictation no longer pastes the old clipboard in slow apps. Small pill on the left, one menu, Google Calendar sign-in.</p>]]></description>
+            <enclosure url="https://github.com/hrmomeni/wizper-releases/releases/download/v0.12.1/Wizper-0.12.1.dmg" sparkle:edSignature="QksKqCN+AulUlm0MQbuPbsgRWi/i5uvUbm+g5STdGedkBnx1Nbi2zYfgEj/wF5V7r/GryIDrIwg89kObHZ+NDg==" length="33316045" type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Version 0.12.0</title>
             <pubDate>Wed, 11 Nov 2026 23:30:37 GMT</pubDate>
             <sparkle:version>1576</sparkle:version>
