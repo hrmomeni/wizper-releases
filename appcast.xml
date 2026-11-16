@@ -6,6 +6,15 @@
         <description>Wizper updates</description>
         <language>en</language>
         <item>
+            <title>Version 0.12.8</title>
+            <pubDate>Mon, 16 Nov 2026 09:06:43 GMT</pubDate>
+            <sparkle:version>1677</sparkle:version>
+            <sparkle:shortVersionString>0.12.8</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<p>Meetings: live lines appear about a second after they are said (were 7–15 s behind).</p>]]></description>
+            <enclosure url="https://github.com/hrmomeni/wizper-releases/releases/download/v0.12.8/Wizper-0.12.8.dmg" sparkle:edSignature="PIpQP6y9xlEuIAf90XHkMkz+iAzkm2ewhiB2MWgIj993/Dy4/HnXMEcTze8pEj7/j9ZPnaxpOo4PTpga3m1ZAA==" length="32997166" type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Version 0.12.7</title>
             <pubDate>Mon, 16 Nov 2026 08:09:06 GMT</pubDate>
             <sparkle:version>1672</sparkle:version>
