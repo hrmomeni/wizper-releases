@@ -6,6 +6,15 @@
         <description>Wizper updates</description>
         <language>en</language>
         <item>
+            <title>Version 0.12.4</title>
+            <pubDate>Mon, 16 Nov 2026 01:00:32 GMT</pubDate>
+            <sparkle:version>1655</sparkle:version>
+            <sparkle:shortVersionString>0.12.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<p>Meeting transcripts spell names right more often: names from the meeting's calendar event and your Dictionary fix sound-alike mishearings, with strict rules so ordinary words are never turned into names.</p>]]></description>
+            <enclosure url="https://github.com/hrmomeni/wizper-releases/releases/download/v0.12.4/Wizper-0.12.4.dmg" sparkle:edSignature="E6zKi0wzjT2hqlxl8/mTyGLbQISF6EKavz6QdssEX2UnPTWHbMxs4erxcAm+i6IwxavdUJzb62+lddJALMZfAw==" length="32918139" type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Version 0.12.3</title>
             <pubDate>Mon, 16 Nov 2026 00:07:38 GMT</pubDate>
             <sparkle:version>1652</sparkle:version>
