@@ -6,6 +6,15 @@
         <description>Wizper updates</description>
         <language>en</language>
         <item>
+            <title>Version 0.12.9</title>
+            <pubDate>Mon, 16 Nov 2026 09:37:06 GMT</pubDate>
+            <sparkle:version>1680</sparkle:version>
+            <sparkle:shortVersionString>0.12.9</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<p>Meetings on speakers keep much more of what you say (the echo filter now removes only near-certain echo).</p>]]></description>
+            <enclosure url="https://github.com/hrmomeni/wizper-releases/releases/download/v0.12.9/Wizper-0.12.9.dmg" sparkle:edSignature="1Pl7mO4UIZeN9m/cHx7wWcPNagk7+dMBb459yGR9mMOeKqKHmeec39djXnwsiCJJz6Gsxlk4Efe724y0VhQ3Dw==" length="33016433" type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Version 0.12.8</title>
             <pubDate>Mon, 16 Nov 2026 09:06:43 GMT</pubDate>
             <sparkle:version>1677</sparkle:version>
