@@ -6,6 +6,15 @@
         <description>Wizper updates</description>
         <language>en</language>
         <item>
+            <title>Version 0.13.0</title>
+            <pubDate>Mon, 16 Nov 2026 21:23:26 GMT</pubDate>
+            <sparkle:version>1691</sparkle:version>
+            <sparkle:shortVersionString>0.13.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<p>Meetings: new Engine setting, Offline (this Mac) or Online (your own server or an API key). Online meetings are transcribed, split by speaker and summarised on the server; if it is not reachable the meeting is made on the Mac.</p>]]></description>
+            <enclosure url="https://github.com/hrmomeni/wizper-releases/releases/download/v0.13.0/Wizper-0.13.0.dmg" sparkle:edSignature="9PtdVS/+FDVnp9bDZdvUvJ9mP7HqzpNpLF5F72wvaf3GV5YTQRqD2/yHYir9GxBdpl+n433jjeXAoI/s/QsWDg==" length="33263002" type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Version 0.12.9</title>
             <pubDate>Mon, 16 Nov 2026 09:37:06 GMT</pubDate>
             <sparkle:version>1680</sparkle:version>
