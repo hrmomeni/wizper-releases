@@ -6,6 +6,15 @@
         <description>Wizper updates</description>
         <language>en</language>
         <item>
+            <title>Version 0.12.6</title>
+            <pubDate>Mon, 16 Nov 2026 07:50:21 GMT</pubDate>
+            <sparkle:version>1667</sparkle:version>
+            <sparkle:shortVersionString>0.12.6</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<p>Meetings: when several dictation languages are on, a call in one language now gets its transcript made while it records, so Stop finishes in seconds.</p>]]></description>
+            <enclosure url="https://github.com/hrmomeni/wizper-releases/releases/download/v0.12.6/Wizper-0.12.6.dmg" sparkle:edSignature="rRSAW/oZ6r4+rjSzUkdWRrOPFr+E/PEI6O2bcop9P4t2OZkcwKBEnM6H+fXEVP628eiQ7sGTn/n6mmhtqZkFBw==" length="32963910" type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Version 0.12.5</title>
             <pubDate>Mon, 16 Nov 2026 01:30:29 GMT</pubDate>
             <sparkle:version>1659</sparkle:version>
