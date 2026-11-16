@@ -6,6 +6,15 @@
         <description>Wizper updates</description>
         <language>en</language>
         <item>
+            <title>Version 0.12.3</title>
+            <pubDate>Mon, 16 Nov 2026 00:07:38 GMT</pubDate>
+            <sparkle:version>1652</sparkle:version>
+            <sparkle:shortVersionString>0.12.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<p>Meeting notes now cover the whole meeting (long meetings no longer lose their second half). The meeting menu no longer offers Export Markdown, PDF or Audio; Copy and Share stay. Each meeting writes a short counts-only report to the app's log so problems on real calls can be found.</p>]]></description>
+            <enclosure url="https://github.com/hrmomeni/wizper-releases/releases/download/v0.12.3/Wizper-0.12.3.dmg" sparkle:edSignature="xLV+MiIVm0ZsoJRLLcOIMPqBLB0mK2HprfFSXgkbarcLbeha89bls6cqo4TZf/bDKVMirajgW7gG+DybyGLICA==" length="32938139" type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Version 0.12.2</title>
             <pubDate>Fri, 13 Nov 2026 23:10:30 GMT</pubDate>
             <sparkle:version>1633</sparkle:version>
