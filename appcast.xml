@@ -6,6 +6,15 @@
         <description>Wizper updates</description>
         <language>en</language>
         <item>
+            <title>Version 0.12.5</title>
+            <pubDate>Mon, 16 Nov 2026 01:30:29 GMT</pubDate>
+            <sparkle:version>1659</sparkle:version>
+            <sparkle:shortVersionString>0.12.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<p>Meetings tell the other people on a call apart: after a meeting, call-side lines read Speaker 2, Speaker 3… (or the name the call app shows) instead of just Them. Runs on your Mac with a small 22 MB model.</p>]]></description>
+            <enclosure url="https://github.com/hrmomeni/wizper-releases/releases/download/v0.12.5/Wizper-0.12.5.dmg" sparkle:edSignature="1GCwurfyVOpS8ArRwJ+U+2TNFE5Qbva5Dm4QhqGukbRKYwNjs3EGJ1zWecZxd6WEr3pRLZuDrg+UCLxTU1w9Dw==" length="32964807" type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Version 0.12.4</title>
             <pubDate>Mon, 16 Nov 2026 01:00:32 GMT</pubDate>
             <sparkle:version>1655</sparkle:version>
