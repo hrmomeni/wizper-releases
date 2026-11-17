@@ -6,6 +6,15 @@
         <description>Wizper updates</description>
         <language>en</language>
         <item>
+            <title>Version 0.14.1</title>
+            <pubDate>Tue, 17 Nov 2026 21:37:09 GMT</pubDate>
+            <sparkle:version>1715</sparkle:version>
+            <sparkle:shortVersionString>0.14.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<p>Wizper keeps a 14-day diagnostics log (no dictated text) so paste and correction-prompt problems can be fixed when they happen.</p>]]></description>
+            <enclosure url="https://github.com/hrmomeni/wizper-releases/releases/download/v0.14.1/Wizper-0.14.1.dmg" sparkle:edSignature="okrfwAUPycMq6XKFSiwxNJM1OLyLhyaQxfMeQqUvyqOnQHyXsgZ5MEVpvFEm70EIfv+R8YTmP1Bf5S12f1oCCw==" length="29006958" type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Version 0.14.0</title>
             <pubDate>Tue, 17 Nov 2026 20:23:12 GMT</pubDate>
             <sparkle:version>1709</sparkle:version>
