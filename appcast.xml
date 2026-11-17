@@ -6,6 +6,15 @@
         <description>Wizper updates</description>
         <language>en</language>
         <item>
+            <title>Version 0.14.0</title>
+            <pubDate>Tue, 17 Nov 2026 20:23:12 GMT</pubDate>
+            <sparkle:version>1709</sparkle:version>
+            <sparkle:shortVersionString>0.14.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<p>Wizper is dictation only again: Meetings and the Online engine are removed. Dictation is unchanged; your old meeting data stays on your Mac.</p>]]></description>
+            <enclosure url="https://github.com/hrmomeni/wizper-releases/releases/download/v0.14.0/Wizper-0.14.0.dmg" sparkle:edSignature="JZwMZyLMcUWVlVI/5H+2+O9L1i2GnUs4rp06JbbkgBhuYvsMSKer8v0vHISwDmqhwps4ZlsTRbsKU3pMPIB3AA==" length="29010321" type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Version 0.13.2</title>
             <pubDate>Tue, 17 Nov 2026 00:13:58 GMT</pubDate>
             <sparkle:version>1698</sparkle:version>
